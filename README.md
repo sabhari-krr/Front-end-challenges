@@ -1,1 +1,1 @@
-Day 1 preview : https://frontendchallenge-day1.netlify.app/
+Day 1 Preview(CSS Only) : https://frontendchallenge-day1.netlify.app/
